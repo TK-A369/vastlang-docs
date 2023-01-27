@@ -1,0 +1,5 @@
+site_name: VastLang documentation
+
+nav:
+    - 'index.md'
+    - 'keywords.md'
