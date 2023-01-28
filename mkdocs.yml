@@ -10,6 +10,15 @@ nav:
     - 'lang-spec/functions.md'
     - 'lang-spec/interrupts.md'
     - 'lang-spec/threads.md'
+  - 'Examples':
+    - 'examples/index.md'
+    - 'Basics':
+      - 'examples/basics/hello-world.md'
+      - 'examples/basics/read-and-print.md'
+      - 'examples/basics/read-and-print2.md'
+    - 'Conditional':
+      - 'examples/conditional/maths.md'
+      - 'examples/conditional/guess-the-number-game.md'
 
 theme:
   name: material

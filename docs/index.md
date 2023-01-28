@@ -2,4 +2,6 @@
 
 VastLang is simple programming language, with syntax quite similar to Basic and Assembly.
 
-For language specification, see [here](lang-spec/)
+For language specification, see [here](./lang-spec/).
+
+You can also see [examples](./examples/).
