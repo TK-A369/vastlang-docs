@@ -1,5 +1,9 @@
 # VastLang keywords
 
+There are many keywords in VastLang.
+
+Most of them are instructions.
+
  - `syscall` - perform some operation with provided arguments, and possibly save returned result to variable.  
    Syntax: `syscall [syscall_name] [result_variable] [args_count] [args...]`  
    `syscall_name` should be string.  
