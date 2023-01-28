@@ -4,6 +4,7 @@ nav:
   - 'index.md'
   - 'Language specification':
     - 'lang-spec/index.md'
+    - 'lang-spec/tokens.md'
     - 'lang-spec/keywords.md'
     - 'lang-spec/variables.md'
     - 'lang-spec/functions.md'

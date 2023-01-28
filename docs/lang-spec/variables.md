@@ -11,7 +11,7 @@ Variable has following properties:
 
 First two are self-explanatory.
 
-When variable is created, its depth is set to current depth counter value (see [functions](./functions/)), and its thread is set to current thread (see [threads](./threads/)).
+When variable is created, its depth is set to current depth counter value (see [functions](../functions/)), and its thread is set to current thread (see [threads](../threads/)).
 
 Variable is considered **global** when its depth is equal to 0.
 Global variable can be accessed from anywhere.

@@ -1,4 +1,4 @@
-# VastLang keywords
+# Keywords in VastLang
 
 There are many keywords in VastLang.
 
