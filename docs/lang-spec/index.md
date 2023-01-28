@@ -10,4 +10,4 @@ There are two types of statements:
    `value` should be constant number or string.
  - **Keyword statement**  
    Syntax dependent on used keyword.  
-   See [keywords](/lang-spec/keywords/) for details.
+   See [keywords](keywords/) for details.
