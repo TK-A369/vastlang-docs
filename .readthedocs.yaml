@@ -11,3 +11,8 @@ mkdocs:
 python:
    install:
    - requirements: docs/requirements.txt
+
+formats:
+  - htmlzip
+  - pdf
+  - epub
