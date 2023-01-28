@@ -5,6 +5,10 @@ nav:
   - 'Language specification':
     - 'lang-spec/index.md'
     - 'lang-spec/keywords.md'
+    - 'lang-spec/variables.md'
+    - 'lang-spec/functions.md'
+    - 'lang-spec/interrupts.md'
+    - 'lang-spec/threads.md'
 
 theme:
   name: material
